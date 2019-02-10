@@ -6,3 +6,15 @@
   version "1.47.3"
   resolved "https://registry.yarnpkg.com/@types/cesium/-/cesium-1.47.3.tgz#cfdd9cd46efae252d2ad46ef4afe1bfcbd527e9d"
   integrity sha512-CEvYpOEpnflcF1zgbijWMgYHaAHmyHP/AMDr0AjYedBJjs/m8pgVm5ORKO9TihaUiDS+ay8vk2SHSp2o7Q+4Ow==
+
+cesium@^1.54.0:
+  version "1.54.0"
+  resolved "https://registry.yarnpkg.com/cesium/-/cesium-1.54.0.tgz#2222341a7ee7bde3fb937e47f0bbbe2e8d0a740a"
+  integrity sha512-03NlOpDHKi10F6yO/A0tdlVR2OFqd0YwORGzpgtwNnGzxQC7/m8dybaj/P2Wk33mVTpIZLx6O/Z4Zhc+IGAIUA==
+  dependencies:
+    requirejs "^2.3.2"
+
+requirejs@^2.3.2:
+  version "2.3.6"
+  resolved "https://registry.yarnpkg.com/requirejs/-/requirejs-2.3.6.tgz#e5093d9601c2829251258c0b9445d4d19fa9e7c9"
+  integrity sha512-ipEzlWQe6RK3jkzikgCupiTbTvm4S0/CAU5GlgptkN5SO6F3u0UD0K18wy6ErDqiCyP4J4YYe1HuAShvsxePLg==
